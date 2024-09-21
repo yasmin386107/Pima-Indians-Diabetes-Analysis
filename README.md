@@ -21,7 +21,7 @@ To get started with this project, you'll need to install the necessary libraries
 
 ---
 
-##Dependencies
+## Dependencies
 . Numpy
 .Pandas
 .Matplotlib
