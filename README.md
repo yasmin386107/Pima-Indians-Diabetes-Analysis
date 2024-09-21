@@ -22,11 +22,11 @@ To get started with this project, you'll need to install the necessary libraries
 ---
 
 ## Dependencies
-. Numpy
-.Pandas
-.Matplotlib
-.Seaborn
-.Sklearn
+-Numpy
+-Pandas
+-Matplotlib
+-Seaborn
+-Sklearn
 
 ---
 
