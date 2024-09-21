@@ -15,3 +15,18 @@ To get started with this project, you'll need to install the necessary libraries
    ```bash
    git clone https://github.com/yourusername/YourProject.git
    cd YourProject
+2. Navigate to the project directory:
+   ```bash
+   cd Pima-Indians-Diabetes-Analysis
+
+---
+
+##Dependencies
+. Numpy
+.Pandas
+.Matplotlib
+.Seaborn
+.Sklearn
+
+---
+
